@@ -2,7 +2,7 @@
 
 #### <div align="center"> ICLR 2026 <div>
 <div align="center">
-<a href=https://arxiv.org/abs/2509.24816 target="_blank"><img src=https://img.shields.io/badge/arXiv-xxx-b5212f.svg?logo=arxiv height=20px></a>
+<a href=https://arxiv.org/abs/2509.24816 target="_blank"><img src=https://img.shields.io/badge/arXiv-KnowGuard-b5212f.svg?logo=arxiv height=20px></a>
 </div>
 <div align="center">
   <br>
