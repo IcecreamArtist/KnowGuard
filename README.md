@@ -32,6 +32,8 @@
   <img src="./doc/teaser.png" width="80%">
 </p>
 
+You can find resources to reproduce the results at: https://huggingface.co/datasets/IcecreamArtist/KnowGuard/blob/main/README.md
+
 
 ## Citation
 
